@@ -8,7 +8,7 @@
 <img width="1440" height="755" alt="Screenshot 2026-02-12 at 12 26 53 AM" src="https://github.com/user-attachments/assets/1e91b490-bd8c-4a44-b136-2ec6cea6fadb" />
 
 
-- [Demo Project]()
+- [Demo Project](https://shalizsharafi.github.io/bedAndBreakfastWebsite/)
 
 - Developed by Shaliz Sharafi
 
