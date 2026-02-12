@@ -1,6 +1,6 @@
 # Avada Template - Bed and Breakfast
 
-- [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
+- [Demo Project]([https://pouria-farahani-developer.github.io/Accordion-Menu-By-React](https://shalizsharafi.github.io/bedAndBreakfastWebsite/)/)
 
 - Developed by Shaliz Sharafi
 
